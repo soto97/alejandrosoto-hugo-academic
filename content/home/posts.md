@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Posts
+subtitle: Research news, ideas, random thoughts, etc.
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---

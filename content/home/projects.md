@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 25
 
 title: Projects
 subtitle: ''
@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Planetary Atmospheres
+    tag: Planetary Atmospheres
+  - name: Space Exploration
+    tag: Space Exploration
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
