@@ -1,3 +1,11 @@
+# Alejandro Soto's website
+
+This is the repository for my professional website. I am building this on the Wowchemy blogging framework that uses the Hugo static site generator. To mhy chagrin, this is basically a fork of someone else's template for an "academic" website. Sure, the meat of the framework and the generator are actual separate pieces of software, namely Wowchemy and Hugo, respectively, but this still feels like a slide backwards to the Octopress 2.0 nonsense where I was just trying to build a site based on a hacked version of someone else's site (i.e., a fork).
+
+Hopefully this goes better than Octopress.
+
+
+
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
