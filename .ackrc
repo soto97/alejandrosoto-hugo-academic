@@ -1,0 +1,2 @@
+# ignore some directories when using Ack in this repository.
+--ignore-dir=public
