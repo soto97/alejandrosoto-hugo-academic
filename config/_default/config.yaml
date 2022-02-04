@@ -65,6 +65,12 @@ related:
     - name: authors
       weight: 20
 
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
 ############################
 ## MODULES
 ############################
